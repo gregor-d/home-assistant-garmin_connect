@@ -1,6 +1,6 @@
 {
-  "domain": "garmin_connect",
-  "name": "Garmin Connect",
+  "domain": "garmin_connect_g",
+  "name": "Garmin Connect Greg",
   "codeowners": ["@cyberjunky"],
   "config_flow": true,
   "dependencies": [],
